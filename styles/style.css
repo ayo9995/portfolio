@@ -83,7 +83,6 @@ nav ul li:last-child {
 }
 .section2 {
   text-align: center;
-  align-items: center;
 }
 .section2 span {
   color: var(--primary-color);
