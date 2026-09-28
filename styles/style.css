@@ -219,8 +219,8 @@ nav ul li:last-child {
   border-radius: 20px;
 }
 .first-div div img {
-  width: 200px;
-  height: 100px;
+  width: 70px;
+  height: 50px;
 }
 .first-div div h4 {
   color: var(--primary-color);
