@@ -259,7 +259,7 @@ nav ul li:last-child {
 .fulldiv {
   background-color: rgba(255, 255, 255, 0.221);
   padding: 10px;
-  height: 400px;
+  height: 300px;
   width: 600px;
   border-radius: 30px;
 }
@@ -271,7 +271,7 @@ nav ul li:last-child {
 }
 .div5 {
   background-image: linear-gradient(
-    to left,
+    to center,
     var(--primary-color),
     var(--secondary-color)
   );
