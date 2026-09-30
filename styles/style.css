@@ -450,6 +450,9 @@ nav ul li:last-child {
   .div1 {
     grid-template-columns: auto;
   }
+  .header-section {
+    position: static;
+  }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
